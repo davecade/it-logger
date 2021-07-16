@@ -1,42 +1,47 @@
 {
-    "logs": [
-        {
-            "id": 1,
-            "message": "Changed hard drive on workstation 005",
-            "attention": false,
-            "date": "16-07-2021",
-            "tech": "Dave Reaper"
-        },
-        {
-            "id": 2,
-            "message": "Workstation 007 not posting",
-            "attention": true,
-            "date": "16-07-2021",
-            "tech": "Bonn Ashe"
-        },
-        {
-            "id": 3,
-            "message": "Changed memory on workstation 050",
-            "attention": false,
-            "date": "16-07-2021",
-            "tech": "Rhyss Mcree"
-        }
-    ],
-    "techs": [
-        {
-            "id": 1,
-            "firstName": "Dave",
-            "lastName": "Reaper"
-        },
-        {
-            "id": 2,
-            "firstName": "Bonn",
-            "lastName": "Ashe"
-        },
-        {
-            "id": 3,
-            "firstName": "Rhyss",
-            "lastName": "Mcree"
-        }
-    ]
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "16-07-2021",
+      "tech": "Dave Reaper"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "16-07-2021",
+      "tech": "Bonn Ashe"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 050",
+      "attention": false,
+      "date": "16-07-2021",
+      "tech": "Rhyss Mcree"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Dave",
+      "lastName": "Reaper"
+    },
+    {
+      "id": 2,
+      "firstName": "Bonn",
+      "lastName": "Ashe"
+    },
+    {
+      "id": 3,
+      "firstName": "Rhyss",
+      "lastName": "Mcree"
+    },
+    {
+      "firstName": "Kris",
+      "lastName": "Winston",
+      "id": 4
+    }
+  ]
 }
