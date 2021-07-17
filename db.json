@@ -4,22 +4,22 @@
       "id": 1,
       "message": "Changed hard drive on workstation 005",
       "attention": false,
-      "date": "16-07-2021",
-      "tech": "Dave Reaper"
+      "date": "07-16-2021",
+      "tech": "Dave 'washed up' Genji"
     },
     {
       "id": 2,
       "message": "Workstation 007 not posting",
       "attention": true,
-      "date": "16-07-2021",
-      "tech": "Bonn Ashe"
+      "date": "07-16-2021",
+      "tech": "Bonn 'cheating ass' Ashe"
     },
     {
       "id": 3,
       "message": "Changed memory on workstation 050",
       "attention": false,
-      "date": "16-07-2021",
-      "tech": "Rhyss Mcree"
+      "date": "07-16-2021",
+      "tech": "Rhyss 'cheating makes me worse' Mcree"
     }
   ],
   "techs": [
@@ -37,11 +37,6 @@
       "id": 3,
       "firstName": "Rhyss",
       "lastName": "Mcree"
-    },
-    {
-      "firstName": "Kris",
-      "lastName": "Winston",
-      "id": 4
     }
   ]
 }
