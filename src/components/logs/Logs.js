@@ -9,7 +9,6 @@ const Logs = ({ log: { logs, loading }, getLogs } ) => {
 
     useEffect(() => {
         getLogs()
-        // esLint-disable-next-line
     }, [])
 
     if(loading || logs === null) {
